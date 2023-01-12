@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @epirnat
-- 👀 I’m interested in Python, Data visualization and analysis, Software testing and design.
+- 👀 I’m interested in Python, Data visualization, analysis and data science.
 - :bowtie: Portfolio website: https://www.datascienceportfol.io/epirnat
 - :envelope: How to reach me: https://www.linkedin.com/in/edipirnat/
 
