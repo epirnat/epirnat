@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m @epirnat
-- 👀 I’m interested in Python, all things data and product design
+- 👀 I’m interested in Python, all things data, research and product design
 - :bowtie: Portfolio website: https://www.datascienceportfol.io/epirnat
 - :envelope: How to reach me: https://www.linkedin.com/in/edipirnat/
 
